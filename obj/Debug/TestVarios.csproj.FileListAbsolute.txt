@@ -1,0 +1,11 @@
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\bin\Debug\TestVarios.exe.config
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\bin\Debug\TestVarios.exe
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\bin\Debug\TestVarios.pdb
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.csproj.AssemblyReference.cache
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.Properties.Resources.resources
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.csproj.GenerateResource.cache
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.exe
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.pdb
+C:\Users\FranciscoIgorraRodri\Documents\Curso Kiko\C#\TestVarios\obj\Debug\TestVarios.Form1.resources
